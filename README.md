@@ -17,6 +17,9 @@
 ## Ahorcado:
 #### Objetivo: importar módulos nativos y propios, y utilizarlos dentro de la lógica del juego, para mostrar una diagrama (obtenido de un diccionario) y la lista de palabras que se elegirán de manera aleatoria.
 ***
+## Búsqueda binaria:
+#### Objetivo: Comparar el tiempo que lleva realizar una búsqueda binaria contra una Naive search, usando el módulo time. Practicar la recursividad, conjuntos, listas y ordenamiento de las mismas.
+***
 ## Tecnologías usadas
 
 <p align="left">

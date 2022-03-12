@@ -74,9 +74,9 @@ def ahorcado():
     # Llegamos hasta acá al adivinar todas las letras o perder todas las vidas
     if vidas == 0:
             print(vidas_diccionario_visual[vidas])
-            print(f"¡¡¡Perdiste!!! \n La palabra era: {palabra}")
+            print(f"\n ¡¡¡Perdiste!!! \n La palabra era: {palabra}")
     else:
-            print(f"¡¡¡Felicidades, adivinaste!!! \n La palabra era {palabra}")
+            print(f"\n ¡¡¡Felicidades, adivinaste!!! \n La palabra era {palabra}")
 
 
 ahorcado()
